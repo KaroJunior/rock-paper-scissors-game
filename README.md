@@ -2,7 +2,7 @@
 
 A multiplayer Rock Paper Scissors game built with HTML, CSS, JavaScript and Firebase.
 
-Game Screenshot (assets/screenshot.png)
+[Game Screenshot](assets/screenshot.png) 
 
 ## Features
 
@@ -14,14 +14,13 @@ Game Screenshot (assets/screenshot.png)
 
 ## Demo
 
-Play the game at: https://kjrockpaperscissors.netlify.app
+Play the game at: [https://kjrockpaperscissors.netlify.app](https://kjrockpaperscissors.netlify.app)
 
 ## Setup Instructions
 
 1. Clone the repository
 git clone https://github.com/your-username/rock-paper-scissors-game.git
 
-text
 
 2. Set up Firebase project
 - Create a new project at [Firebase Console](https://console.firebase.google.com/)
