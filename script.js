@@ -1,11 +1,12 @@
+// Firebase configuration - REPLACE WITH YOUR OWN CONFIG
 const firebaseConfig = {
-    apiKey: "AIzaSyARFYKiMSFtuQdd4zV74lbUgd3HUKon6HM",
-    authDomain: "rockpaperscissorsgame-70867.firebaseapp.com",
-    databaseURL: "https://rockpaperscissorsgame-70867-default-rtdb.firebaseio.com",
-    projectId: "rockpaperscissorsgame-70867",
-    storageBucket: "rockpaperscissorsgame-70867.firebasestorage.app",
-    messagingSenderId: "445566144485",
-    appId: "1:445566144485:web:cf8a595a6bef49d1f8a90c"
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    databaseURL: "YOUR_DATABASE_URL",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+    appId: "YOUR_APP_ID"
 };
 
 // Initialize Firebase
